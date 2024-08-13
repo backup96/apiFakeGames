@@ -1,0 +1,20 @@
+{
+    "Juego":[
+        {
+            "Id": 1001,
+            "Nombre": "Gears of War"
+        },
+        {
+            "Id": 1002,
+            "Nombre": "Gears of War 2"
+        },
+        {
+            "Id": 1003,
+            "Nombre": "Gears of War 3"
+        },
+        {
+            "Id": 1004,
+            "Nombre": "Gears of War 4"
+        }
+    ]
+}
